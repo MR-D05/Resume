@@ -33,12 +33,12 @@ repositories.**
 
 **Key Achievements:**
 
--   Implementede an Angular diagnostic tool addressing high impact
+-   Implemented an Angular diagnostic tool addressing high impact
     automatic provisioning issues.
 
--   Designed Symphony backend for an active subscriber dashboard.
+-   Designed a Laravel and Symphony backend for an active subscriber dashboard.
 
--   Write and implement 5+ comprehensive test suites (Acceptance, API,
+-   Wrote and implemented 5+ comprehensive test suites (Acceptance, API,
     and Unit) for APIs internal to Block Communications.
 
 # Hobbies/Projects
