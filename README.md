@@ -3,10 +3,9 @@
 # Summary
 
 Dependable software engineer passionate about PHP (Laravel, Symphony), Java (Spring), and
-JavaScriptexemplary interpersonal skills able to conceptualize and
-deliver. Extensive understanding of end-to-end SDLC best practices.
-Comfrotable with Laravel, PHP OOP, REST, and MVC design. Strong with Git
-amd source controle and Docker.
+JavaScript, exemplary interpersonal skills able to conceptualize and deliver. Extensive
+understanding of end-to-end SDLC best practices. Comfortable with Laravel, PHP OOP, REST,
+and MVC design. Strong with Git and source control and Docker.
 
 # Technical Proficiences
 
