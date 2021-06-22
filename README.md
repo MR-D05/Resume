@@ -1,6 +1,4 @@
-# Ben Broadstone's Resume
-
-# Title: Software Engineer / Software Developer
+# Ben Broadstone: Software Engineer / Software Developer
 
 # Summary
 
