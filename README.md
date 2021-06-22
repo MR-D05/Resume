@@ -19,9 +19,9 @@ amd source controle and Docker.
 
 # Experience
 
-**January 2021--June 2021 Software Developer Contract Positionn Bisnow**
+**January 2021--June 2021 Software Developer Contract Position Bisnow**
 
-       Built 6 comprehensive test suites for core Laravel repositories egenerating near %100 coverage
+       Built 6 comprehensive test suites for core Laravel repositories generating near %100 coverage
    
 **December 2018--Present Software Engineer Telesystem**
 
