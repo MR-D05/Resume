@@ -1,71 +1,71 @@
----
-title: Software Engineer
----
+# Ben Broadstone
 
-# Summary
+## Software Engineer
 
-Dependable software engineer fluent in PHP, Java, and
-JavaScriptexemplary interpersonal skills able to conceptualize and
-deliver. Extensive understanding of end-to-end SDLC best practices.
-Comfrotable with Laravel, PHP OOP, REST, and MVC design. Strong with Git
-amd source controle and Docker.
+### Summary
 
-# Technical Proficiences
+Dynamic and dependable software engineer fluent in PHP, JavaScript, and Java with exemplary
+communication, analytical, and interpersonal skills and a knack for conceptualizing and delivering
+effective, elegant solutions. A strong team player armed with an extensive understanding of end-to-end
+SDLC best practices. Deep familiarity with: OOP, REST, MVC, Git.
 
-# Key Achievements
+### Technical Proficiencies
+**Languages** Java, JavaScript, Typescript, PHP
+**Frameworks** Spring, Angular 9, Symfony
+**Databases** MSSQL, MySQL, PostgreSQL, Doctrine, Illuminate, Hibernate
+**Versioning** Git, Atlassian Suite
+**CI/CD** Docker, Maven, Bamboo, GitHub Actions
+### Key Achievements
 
--   Built unit test suites forl 6 core Laravel repositories.
+- Architected and developed a rich frontend diagnostic tool for Telesystem using Angular 9 to address
+common automatic provisioning issues.
+- Built an active subscriber dashboard using Symfony and Doctrine to provide real-time device data for
+more than 150,000 broadband devices spread out across 12 CMTS hubs.
 
-```{=html}
-<!-- -->
-```
--   Monitoring, code reviews, deployments, bug fixes, elimination of
-    technical debt. Built jobs for various queues, unit testing.
+### Experience
 
-```{=html}
-<!-- -->
-```
--   Symfony tool to provideing real-time data for 150,000 devices.
-
-# Experience
-
-**Key Achievements: Built unit test suites for 6 core Laravel
-repositories.**
-
--   Responsible for website monitoring, code reviews, deployments,
-    interviews, bug fixes, refactoring of critical business logic, and
-    elimination of technical debt. Built out numerous jobs for various
-    repo queues and became proficient at unit testing.
+**January 2021–June 2021 Software Developer, Bisnow (Contract)**
 
 **Key Achievements:**
 
--   Implementede an Angular diagnostic tool addressing high impact
-    automatic provisioning issues.
+- Responsible for website monitoring, code reviews, deployments, bug fixes, refactoring critical
+business logic, and elimination of technical debt. Built out numerous jobs for various repo
+queues and became proficient at unit testing.
 
-```{=html}
-<!-- -->
-```
--   Designed Symphony backend for an active subscriber dashboard.
+**December 2018–January 2021 Software Engineer, Telesystem**
 
-```{=html}
-<!-- -->
-```
--   Write and implement 5+ comprehensive test suites (Acceptance, API,
-    and Unit) for APIs internal to Block Communications.
+**Key Achievements:**
 
-# Hobbies/Projects
+- Designed and implemented of a robust frontend diagnostic tool written with Angular, used
+every day by hundreds of call center employees to quickly and accurately address high impact
+customer-facing issues related to automatic provisioning.
+- Designed and implemented a PHP backend for an active subscriber dashboard.
 
--   Built a file storage service written in Ada.
+**January 2016–December 2018, Software Development Intern, Revature**
 
-```{=html}
-<!-- -->
-```
--    Currently building a BMI tracker in Swift as part of larger fitness
-    app.
+**Key Achievement:** 
 
-# Education
+- Designed and implemented a comprehensive book publishing web application utilizing a microservice architecture with Spring and Hibernate.
 
-Computer Systems Architecture, Calculus for Engineers I, Calculus for
-Engineers II, Discrete Math Structures, Data Structures, Object-Oriented
-and Concurrent Programming, Advanced Programming Languages, Computer
-Graphics, Design and Analysis of Computer Algorithms
+**September 2017–January 2018 Software Development Intern, Virtual Student Federal Service, State Department**
+
+**Key Achievement:** 
+
+- Designed and implemented a staff user management interface using Visual
+Basic for Cape Town’s Regional Security Office (RSO) to manage and report specifics of the
+Residential Security Program (RSP).
+
+### Hobbies/Projects
+
+- Wrote the foundation of a content delivery application in Ada. https://github.com/MR-D05/lovelace-api
+- Currently developing a fitness tracker with Swift. https://github.com/MR-D05/bmi-calculator
+
+### Education
+
+**January 2016–January 2019, B.S. Computer Science ,University of Maryland, GPA: 3679**
+
+**Coursework:** Computer Systems Architecture, Calculus for Engineers I, Calculus for Engineers II, Discrete Math, Data Structures, Object-Oriented and Concurrent Programming, Advanced Programming Languages, Computer Graphics, Design and Analysis of Computer Algorithms
+
+### Contact Information
+
+ **(202) 733 0824 • ben.broadstone@gmail.com • https://github.com/MR-D05**
